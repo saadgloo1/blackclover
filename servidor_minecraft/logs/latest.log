@@ -67,3 +67,6 @@
 [08Apr2025 22:28:56.091] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@599bc23
 [08Apr2025 22:28:56.096] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:46475] logged in with entity id 1959 at (1661.699999988079, 62.086324980521205, 1165.300000011921)
 [08Apr2025 22:28:56.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[08Apr2025 22:34:10.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS has made the advancement [Isn't It Iron Pick]
+[08Apr2025 22:36:00.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1438.0, 63.0, -584.0
+[08Apr2025 22:36:00.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 2259, 75, 20
