@@ -220,3 +220,25 @@ java.lang.NullPointerException: null
 [08Apr2025 23:37:19.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
 [08Apr2025 23:40:00.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
 [08Apr2025 23:40:45.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[08Apr2025 23:43:04.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Applied effect Poison to G0BL1NS]
+[08Apr2025 23:43:38.299] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO was kicked for floating too long!
+[08Apr2025 23:43:38.346] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO lost connection: Flying is not enabled on this server
+[08Apr2025 23:43:38.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO left the game
+[08Apr2025 23:43:45.947] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1bf497a7
+[08Apr2025 23:43:45.950] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ISMAIL_GLOO[/127.104.81.207:47517] logged in with entity id 38852 at (624.2393683570847, 89.72424029419186, -0.18242688436877158)
+[08Apr2025 23:43:45.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO joined the game
+[08Apr2025 23:44:34.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[08Apr2025 23:44:51.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
+[08Apr2025 23:45:20.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Gave 140 [Golden Apple] to 3]
+[08Apr2025 23:45:32.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[08Apr2025 23:46:57.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[08Apr2025 23:47:28.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[08Apr2025 23:47:57.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[08Apr2025 23:48:40.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[08Apr2025 23:48:50.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[08Apr2025 23:50:08.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[08Apr2025 23:50:14.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
+[08Apr2025 23:51:00.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was shot by Skeleton
+[08Apr2025 23:51:03.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -2416.0, 76.0, 453.0
+[08Apr2025 23:51:03.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 804, 72, -2338
+[08Apr2025 23:52:08.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]

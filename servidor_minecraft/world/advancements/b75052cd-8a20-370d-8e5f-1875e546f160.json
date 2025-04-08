@@ -307,7 +307,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-04-07 22:52:00 +0000"
+      "cooked_porkchop": "2025-04-07 22:52:00 +0000",
+      "golden_apple": "2025-04-08 23:45:35 +0000"
     },
     "done": false
   },
@@ -602,6 +603,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-04-08 23:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-08 23:47:49 +0000"
     },
     "done": true
   },
