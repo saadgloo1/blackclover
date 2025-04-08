@@ -609,7 +609,9 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-04-08 02:13:19 +0000",
       "minecraft:forest": "2025-04-07 22:54:11 +0000",
+      "minecraft:mountains": "2025-04-08 23:24:01 +0000",
       "minecraft:taiga": "2025-04-07 22:58:30 +0000",
+      "minecraft:desert_hills": "2025-04-08 23:26:33 +0000",
       "minecraft:deep_cold_ocean": "2025-04-08 02:13:23 +0000",
       "minecraft:snowy_tundra": "2025-04-08 02:38:54 +0000",
       "minecraft:taiga_hills": "2025-04-08 02:17:03 +0000",
@@ -619,10 +621,12 @@
       "minecraft:warm_ocean": "2025-04-07 23:11:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-07 22:25:32 +0000",
       "minecraft:beach": "2025-04-07 22:24:51 +0000",
+      "minecraft:dark_forest": "2025-04-08 23:22:24 +0000",
       "minecraft:river": "2025-04-07 22:54:04 +0000",
       "minecraft:lukewarm_ocean": "2025-04-07 22:45:46 +0000",
       "minecraft:wooded_hills": "2025-04-08 04:05:26 +0000",
       "minecraft:stone_shore": "2025-04-07 23:26:15 +0000",
+      "minecraft:swamp": "2025-04-08 23:22:03 +0000",
       "minecraft:savanna": "2025-04-08 03:08:00 +0000",
       "minecraft:plains": "2025-04-07 22:24:24 +0000"
     },

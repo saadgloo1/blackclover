@@ -181,3 +181,24 @@ java.lang.NullPointerException: null
 [08Apr2025 23:20:53.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
 [08Apr2025 23:21:01.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1811.0, 63.0, -2386.0
 [08Apr2025 23:21:01.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 416, 63, -568
+[08Apr2025 23:22:41.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[08Apr2025 23:22:55.316] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO was kicked for floating too long!
+[08Apr2025 23:22:55.365] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO lost connection: Flying is not enabled on this server
+[08Apr2025 23:22:55.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO left the game
+[08Apr2025 23:23:01.097] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@58e78b84
+[08Apr2025 23:23:01.101] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ISMAIL_GLOO[/127.104.81.207:37467] logged in with entity id 18805 at (812.0907150606873, 86.60320893676098, -243.67438101030055)
+[08Apr2025 23:23:01.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO joined the game
+[08Apr2025 23:24:10.604] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO was kicked for floating too long!
+[08Apr2025 23:24:10.654] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO lost connection: Flying is not enabled on this server
+[08Apr2025 23:24:10.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO left the game
+[08Apr2025 23:24:21.653] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@24a37825
+[08Apr2025 23:24:21.657] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ISMAIL_GLOO[/127.104.81.207:42809] logged in with entity id 20481 at (806.636982920511, 89.63294129196431, -188.17149402564016)
+[08Apr2025 23:24:21.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO joined the game
+[08Apr2025 23:25:51.851] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO was kicked for floating too long!
+[08Apr2025 23:25:51.899] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO lost connection: Flying is not enabled on this server
+[08Apr2025 23:25:51.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO left the game
+[08Apr2025 23:25:56.601] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d15ef72
+[08Apr2025 23:25:56.605] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ISMAIL_GLOO[/127.104.81.207:56553] logged in with entity id 22067 at (786.118282237574, 74.16850355099469, -149.30591272033072)
+[08Apr2025 23:25:56.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO joined the game
+[08Apr2025 23:29:36.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Take Aim]
+[08Apr2025 23:30:59.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! -10.318169277612697,0.0,-0.44950394728675747
