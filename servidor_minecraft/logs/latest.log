@@ -79,3 +79,18 @@
 [08Apr2025 22:50:14.607] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@43433322
 [08Apr2025 22:50:14.614] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ISMAIL_GLOO[/127.104.81.207:38697] logged in with entity id 5996 at (608.2217682558037, 65.0, -10.305961643536367)
 [08Apr2025 22:50:14.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO joined the game
+[08Apr2025 22:51:00.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -258.0, 66.0, 1608.0
+[08Apr2025 22:51:01.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -2302, 63, -1445
+[08Apr2025 22:51:33.653] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@12ac353
+[08Apr2025 22:51:33.661] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:42891] logged in with entity id 6633 at (9984.110632767408, 92.44195137164179, 10025.150141770311)
+[08Apr2025 22:51:33.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
+[08Apr2025 22:51:57.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[08Apr2025 22:53:56.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
+[08Apr2025 22:56:23.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Zombie
+[08Apr2025 22:56:49.139] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[08Apr2025 22:56:49.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[08Apr2025 22:56:54.894] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76ea73f1
+[08Apr2025 22:56:54.899] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:48683] logged in with entity id 9260 at (1632.5283823385673, 26.015702406832375, 1187.55189019635)
+[08Apr2025 22:56:54.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[08Apr2025 22:57:37.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
+[08Apr2025 23:00:59.185] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! 8.772089019056352,0.0,5.992044465306758
