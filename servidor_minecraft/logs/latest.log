@@ -1,348 +1,69 @@
-[08Apr2025 00:00:29.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Gave 64 [Cooked Porkchop] to ISMAIL_GLOO]
-[08Apr2025 00:02:25.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
-[08Apr2025 00:02:48.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo has made the advancement [Stone Age]
-[08Apr2025 00:03:31.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was shot by Skeleton
-[08Apr2025 00:04:37.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Stone Age]
-[08Apr2025 00:06:22.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Sweet Dreams]
-[08Apr2025 00:07:07.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Monster Hunter]
-[08Apr2025 00:07:29.217] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO moved too quickly! 4.517154291723102,1.252203340253729,9.11222141828448
-[08Apr2025 00:07:29.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
-[08Apr2025 00:07:34.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -2499.0, 63.0, 1776.0
-[08Apr2025 00:07:34.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 1709, 72, -2324
-[08Apr2025 00:07:55.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 00:08:06.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 00:09:21.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS fell from a high place
-[08Apr2025 00:10:29.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 00:10:54.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS has made the advancement [Suit Up]
-[08Apr2025 00:10:55.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Getting an Upgrade]
-[08Apr2025 00:12:02.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 00:12:32.153] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO moved too quickly! -0.02221530955853268,0.0,-10.035451622531353
-[08Apr2025 00:12:32.156] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 2.2144354408741265,0.0,9.887288286091916
-[08Apr2025 00:12:32.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
-[08Apr2025 00:15:43.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was blown up by Creeper
-[08Apr2025 00:16:37.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo has reached the goal [Hired Help]
-[08Apr2025 00:17:34.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[08Apr2025 00:18:17.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 00:20:05.457] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/42054, l='ServerLevel[world]', x=1049.18, y=71.59, z=1657.06] died, message: 'Villager was slain by Zombie'
-[08Apr2025 00:21:54.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 00:22:37.684] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO moved too quickly! 9.824384651617663,1.371586096881451,2.497822675645338
-[08Apr2025 00:22:37.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3044ms or 60 ticks behind
-[08Apr2025 00:22:43.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Volcano dungeon entrance has spawned at -1320.0, 63.0, 2441.0
-[08Apr2025 00:22:43.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1795, 79, 1002
-[08Apr2025 00:24:02.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS has made the advancement [Best Friends Forever]
-[08Apr2025 00:27:35.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS has made the advancement [The Parrots and the Bats]
-[08Apr2025 00:27:40.296] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO moved too quickly! -6.547065208139543,2.249187078744683,-7.414572787800921
-[08Apr2025 00:27:40.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
-[08Apr2025 00:28:34.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 00:29:29.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo has made the advancement [Best Friends Forever]
-[08Apr2025 00:31:15.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 00:31:20.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 00:31:26.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was killed by chain magic 
-[08Apr2025 00:32:42.408] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! 9.572032166126064,0.0,3.6633396839059174
-[08Apr2025 00:32:42.410] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 10.105043141913484,0.0,-1.3079659416926006
-[08Apr2025 00:32:42.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
-[08Apr2025 00:34:25.015] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/57552, l='ServerLevel[world]', x=609.66, y=58.03, z=-534.78]
-[08Apr2025 00:35:40.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Acquire Hardware]
-[08Apr2025 00:35:42.908] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[08Apr2025 00:35:42.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[08Apr2025 00:36:07.461] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@695a7c2d
-[08Apr2025 00:36:07.466] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.249.197.46:44637] logged in with entity id 58763 at (771.2699840455157, 71.0, 2107.85961676449)
-[08Apr2025 00:36:07.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[08Apr2025 00:37:48.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Witches' forest dungeon entrance has spawned at 668.0, 67.0, -633.0
-[08Apr2025 00:37:49.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 2199, 68, -1809
-[08Apr2025 00:38:22.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 00:38:36.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 00:38:45.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo has made the advancement [The Parrots and the Bats]
-[08Apr2025 00:39:00.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo was killed by earth magic 
-[08Apr2025 00:40:16.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to 554.5, 66.0, -543.5]
-[08Apr2025 00:40:45.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo was killed by earth magic
-[08Apr2025 00:41:07.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to 562.5, 67.0, -568.5]
-[08Apr2025 00:42:22.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 00:42:27.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 00:42:51.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 00:48:27.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was blown up by Creeper
-[08Apr2025 00:50:14.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 00:51:49.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
-[08Apr2025 00:52:43.886] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! -4.3343437257954065,0.41290928041701136,-9.070195678725213
-[08Apr2025 00:52:49.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1900.0, 63.0, -1119.0
-[08Apr2025 00:52:49.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 2435, 72, -267
-[08Apr2025 00:53:39.250] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/64636, l='ServerLevel[world]', x=1077.29, y=70.00, z=1683.92] died, message: 'Nitwit was slain by Wolf'
-[08Apr2025 00:58:04.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ISMAIL_GLOO> ttseed
-[08Apr2025 00:58:14.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ISMAIL_GLOO> seed
-[08Apr2025 00:58:38.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 01:03:05.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Isn't It Iron Pick]
-[08Apr2025 01:03:28.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS has made the advancement [Getting an Upgrade]
-[08Apr2025 01:06:51.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 01:07:49.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at 1022.0, 71.0, 2213.0
-[08Apr2025 01:07:50.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 536, 74, -2211
-[08Apr2025 01:08:18.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was blown up by Creeper
-[08Apr2025 01:12:14.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was shot by Skeleton
-[08Apr2025 01:13:06.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was shot by Skeleton
-[08Apr2025 01:14:43.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was slain by Husk
-[08Apr2025 01:15:36.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 01:17:44.038] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! 1.9123143821459507,2.0,-9.692935724212475
-[08Apr2025 01:20:08.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Not Today, Thank You]
-[08Apr2025 01:20:38.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS tried to swim in lava
-[08Apr2025 01:22:16.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was slain by Zombie
-[08Apr2025 01:22:51.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -2106.0, 69.0, -17.0
-[08Apr2025 01:22:51.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -739, 68, 1463
-[08Apr2025 01:24:39.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 01:26:35.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was shot by Skeleton
-[08Apr2025 01:26:57.459] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/73700, l='ServerLevel[world]', x=1047.30, y=74.00, z=1642.35] died, message: 'Weaponsmith was slain by Zombie'
-[08Apr2025 01:28:01.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[08Apr2025 01:28:01.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sadasd<--[HERE]
-[08Apr2025 01:31:50.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Diamonds!]
-[08Apr2025 01:33:54.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 01:34:50.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Iron Golem
-[08Apr2025 01:37:51.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1275.0, 64.0, 844.0
-[08Apr2025 01:37:51.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 1653, 63, 988
-[08Apr2025 01:39:37.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was shot by Skeleton
-[08Apr2025 01:41:08.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
-[08Apr2025 01:41:48.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was slain by Zombie
-[08Apr2025 01:42:31.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 13000]
-[08Apr2025 01:49:10.213] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
-[08Apr2025 01:49:10.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[08Apr2025 01:52:06.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
-[08Apr2025 01:52:17.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
-[08Apr2025 01:52:33.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
-[08Apr2025 01:52:39.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
-[08Apr2025 01:52:52.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at 1928.0, 75.0, -2318.0
-[08Apr2025 01:52:52.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -980, 63, 2166
-[08Apr2025 01:57:44.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
-[08Apr2025 01:59:32.960] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@33b0c92c
-[08Apr2025 01:59:32.966] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.249.197.46:54375] logged in with entity id 90563 at (1065.6461914905387, 70.0, 1725.1140637973633)
-[08Apr2025 01:59:32.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[08Apr2025 02:00:16.106] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO lost connection: Disconnected
-[08Apr2025 02:00:16.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO left the game
-[08Apr2025 02:00:41.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 02:01:37.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo was killed by chain magic
-[08Apr2025 02:01:46.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
-[08Apr2025 02:01:58.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by chain magic 
-[08Apr2025 02:02:05.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 02:02:21.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 02:03:52.767] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@29c4372
-[08Apr2025 02:03:52.777] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ISMAIL_GLOO[/127.68.76.127:36901] logged in with entity id 92406 at (1028.33083325669, 64.0, 351.66506235573553)
-[08Apr2025 02:03:52.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO joined the game
-[08Apr2025 02:04:14.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Chain Ball
-[08Apr2025 02:04:22.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/92694, l='ServerLevel[world]', x=1028.56, y=62.18, z=365.86]
-[08Apr2025 02:04:22.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/92694, l='ServerLevel[world]', x=1028.56, y=62.18, z=365.86]
-[08Apr2025 02:04:24.158] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/92704, l='ServerLevel[world]', x=1026.35, y=61.99, z=370.13]
-[08Apr2025 02:04:24.159] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/92704, l='ServerLevel[world]', x=1026.35, y=61.99, z=370.13]
-[08Apr2025 02:04:33.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
-[08Apr2025 02:04:52.154] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
-[08Apr2025 02:04:52.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
-[08Apr2025 02:05:41.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was killed by chain magic
-[08Apr2025 02:06:37.559] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@21811a85
-[08Apr2025 02:06:37.564] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:60531] logged in with entity id 93322 at (1029.8696849441449, 64.0, 352.14647566508626)
-[08Apr2025 02:06:37.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
-[08Apr2025 02:06:55.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to G0BL1NS]
-[08Apr2025 02:07:00.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by earth magic
-[08Apr2025 02:07:00.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo was killed by earth magic
-[08Apr2025 02:07:15.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to ISMAIL_GLOO]
-[08Apr2025 02:07:33.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by earth magic
-[08Apr2025 02:07:33.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo was killed by earth magic
-[08Apr2025 02:07:40.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to ISMAIL_GLOO]
-[08Apr2025 02:07:44.608] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:44.611] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:46.257] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:46.307] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:46.361] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:47.108] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:47.158] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:47.209] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:47.256] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:48.106] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:48.157] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:48.206] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:48.266] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:49.209] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:49.265] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:49.307] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of ISMAIL_GLOO) moved wrongly! 1.375
-[08Apr2025 02:07:53.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at 1175.0, 65.0, 2365.0
-[08Apr2025 02:07:53.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1340, 67, -431
-[08Apr2025 02:08:10.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by chain magic
-[08Apr2025 02:08:40.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:10:01.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Chain Ball
-[08Apr2025 02:10:01.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Chain Ball
-[08Apr2025 02:10:03.030] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ServerPlayerEntity['ISMAIL_GLOO'/92406, l='ServerLevel[world]', x=1195.01, y=63.09, z=419.88]
-[08Apr2025 02:10:55.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:20:12.930] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1176, y=65, z=2261} BlockPos{x=1176, y=67, z=2260}
-[08Apr2025 02:21:53.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
-[08Apr2025 02:21:54.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
-[08Apr2025 02:22:53.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at 637.0, 63.0, 538.0
-[08Apr2025 02:22:54.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1082, 63, 2080
-[08Apr2025 02:26:00.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 1000]
-[08Apr2025 02:26:02.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO drowned
-[08Apr2025 02:26:09.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 02:28:34.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to G0BL1NS]
-[08Apr2025 02:28:53.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by earth magic
-[08Apr2025 02:28:54.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was slain by Bandit
-[08Apr2025 02:29:29.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:29:48.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was killed by chain magic 
-[08Apr2025 02:30:05.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:31:17.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:31:21.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:31:35.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Suit Up]
-[08Apr2025 02:31:39.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by earth magic
-[08Apr2025 02:31:47.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:33:37.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by chain magic
-[08Apr2025 02:33:46.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 02:34:11.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was slain by Bandit
-[08Apr2025 02:34:12.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:34:23.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:34:23.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was killed by chain magic
-[08Apr2025 02:34:30.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:36:35.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to 639.5, 70.0, 531.5]
-[08Apr2025 02:36:55.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
-[08Apr2025 02:37:54.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Witches' forest dungeon entrance has spawned at 280.0, 63.0, 2090.0
-[08Apr2025 02:37:54.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1254, 72, -1302
-[08Apr2025 02:38:26.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to 280.5, 70.0, 2098.5]
-[08Apr2025 02:38:43.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by earth magic
-[08Apr2025 02:39:10.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 02:39:39.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Witches' Forest dungeon!
-[08Apr2025 02:39:45.751] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! -280.45639832569606,-3.0,-2091.233567218667
-[08Apr2025 02:39:45.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7319ms or 146 ticks behind
-[08Apr2025 02:40:09.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:40:57.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Witch Queen
-[08Apr2025 02:40:57.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Witch Queen
-[08Apr2025 02:41:05.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:43:57.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Dirt Clod Seal
-[08Apr2025 02:44:41.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Iron Golem
-[08Apr2025 02:44:57.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 02:46:51.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ISMAIL_GLOO> y
-[08Apr2025 02:47:44.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Chain Ball
-[08Apr2025 02:48:50.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
-[08Apr2025 02:49:53.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G0BL1NS> y
-[08Apr2025 02:50:58.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Witch Queen
-[08Apr2025 02:50:58.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Witch Queen
-[08Apr2025 02:51:35.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:52:57.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 02:53:02.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at 1514.0, 63.0, 107.0
-[08Apr2025 02:53:02.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 267, 63, -1530
-[08Apr2025 02:53:22.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by earth magic
-[08Apr2025 02:54:01.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 02:55:46.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was killed by chain magic
-[08Apr2025 02:55:56.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported 3 entities to saadgloo]
-[08Apr2025 02:56:49.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 02:58:02.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 03:02:20.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 03:02:34.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 03:03:06.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 03:04:49.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 03:05:05.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 03:06:05.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 03:06:21.549] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
-[08Apr2025 03:06:21.596] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
-[08Apr2025 03:06:21.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[08Apr2025 03:06:29.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Chain Ball
-[08Apr2025 03:06:31.852] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@617f8985
-[08Apr2025 03:06:31.858] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.249.197.46:59013] logged in with entity id 112201 at (93.57516317229438, -68.00790385072402, 85.34935921157549)
-[08Apr2025 03:06:31.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[08Apr2025 03:06:35.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS fell out of the world
-[08Apr2025 03:06:36.393] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[08Apr2025 03:06:39.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo fell from a high place
-[08Apr2025 03:07:08.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to 57.5, 60.0, 74.5]
-[08Apr2025 03:07:19.655] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO lost connection: Disconnected
-[08Apr2025 03:07:19.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO left the game
-[08Apr2025 03:08:03.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1723.0, 66.0, -2226.0
-[08Apr2025 03:08:04.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 2405, 63, 1040
-[08Apr2025 03:08:47.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 03:10:28.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 03:10:38.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 03:12:37.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 03:14:55.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 03:15:15.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was shot by  was killed by Zenon
-[08Apr2025 03:16:50.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Zenon world boss has been killed!
-[08Apr2025 03:17:03.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 03:17:09.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 1000]
-[08Apr2025 03:23:04.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Witches' forest dungeon entrance has spawned at -1354.0, 66.0, 722.0
-[08Apr2025 03:23:04.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -616, 63, 455
-[08Apr2025 03:25:24.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by worldtree magic
-[08Apr2025 03:25:37.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 03:28:21.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by worldtree magic
-[08Apr2025 03:28:30.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[08Apr2025 03:29:00.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 03:31:35.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 03:35:53.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was blown up by Creeper
-[08Apr2025 03:36:31.758] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/121706, l='ServerLevel[world]', x=1085.50, y=70.00, z=1703.39] died, message: 'Butcher was slain by G0BL1NS'
-[08Apr2025 03:38:05.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Witches' forest dungeon entrance has spawned at -2207.0, 73.0, 36.0
-[08Apr2025 03:38:05.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 379, 63, -124
-[08Apr2025 03:38:30.288] [Server thread/INFO] [STDERR/]: [net.mcreator.blackclover.procedures.ResetSpecicPlayerProcedure$1:getEntity:31]: com.mojang.brigadier.exceptions.CommandSyntaxException: No entity was found
-[08Apr2025 03:38:45.233] [Server thread/INFO] [STDERR/]: [net.mcreator.blackclover.procedures.ResetSpecicPlayerProcedure$1:getEntity:31]: com.mojang.brigadier.exceptions.CommandSyntaxException: No entity was found
-[08Apr2025 03:39:31.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 03:41:44.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 03:41:51.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 03:42:27.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 03:42:34.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
-[08Apr2025 03:46:47.406] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
-[08Apr2025 03:46:47.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[08Apr2025 03:49:15.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 03:49:41.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 03:53:05.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Volcano dungeon entrance has spawned at 79.0, 64.0, -274.0
-[08Apr2025 03:53:06.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1271, 67, 254
-[08Apr2025 03:56:04.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[08Apr2025 04:06:13.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[08Apr2025 04:07:39.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dev mode false!
-[08Apr2025 04:07:45.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dev mode false!
-[08Apr2025 04:08:06.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at 600.0, 70.0, -800.0
-[08Apr2025 04:08:06.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -96, 63, -1341
-[08Apr2025 04:18:39.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo fell out of the world
-[08Apr2025 04:18:39.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Killed saadgloo]
-[08Apr2025 04:18:54.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to 1039.5, 177.0, 975.5]
-[08Apr2025 04:20:01.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to 10000.5, 90.0, 10000.5]
-[08Apr2025 04:23:07.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Witches' forest dungeon entrance has spawned at -167.0, 63.0, 1427.0
-[08Apr2025 04:23:08.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 2254, 70, -1697
-[08Apr2025 04:29:30.601] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
-[08Apr2025 04:29:30.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
-[08Apr2025 04:29:43.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[08Apr2025 04:29:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[08Apr2025 04:29:43.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[08Apr2025 04:29:43.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[08Apr2025 04:29:43.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08Apr2025 04:29:43.585] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08Apr2025 04:29:43.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08Apr2025 04:29:43.585] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08Apr2025 04:29:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08Apr2025 04:29:43.586] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08Apr2025 04:29:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blackclover:dream_dimension
-[08Apr2025 04:29:43.587] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dream_dimension): All chunks are saved
-[08Apr2025 04:29:43.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blackclover:gravito_dungeon
-[08Apr2025 04:29:43.587] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (gravito_dungeon): All chunks are saved
-[08Apr2025 04:29:43.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blackclover:jungle_dungeon
-[08Apr2025 04:29:43.588] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jungle_dungeon): All chunks are saved
-[08Apr2025 04:29:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blackclover:seabed_dungeon
-[08Apr2025 04:29:43.588] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (seabed_dungeon): All chunks are saved
-[08Apr2025 04:29:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blackclover:volcano_dungeon
-[08Apr2025 04:29:43.588] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (volcano_dungeon): All chunks are saved
-[08Apr2025 04:29:43.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blackclover:witch_dungeon
-[08Apr2025 04:29:43.590] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (witch_dungeon): All chunks are saved
-[08Apr2025 04:29:43.608] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08Apr2025 04:29:43.813] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08Apr2025 04:29:43.814] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08Apr2025 04:29:43.815] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dream_dimension): All chunks are saved
-[08Apr2025 04:29:43.815] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (gravito_dungeon): All chunks are saved
-[08Apr2025 04:29:43.816] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jungle_dungeon): All chunks are saved
-[08Apr2025 04:29:43.817] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (seabed_dungeon): All chunks are saved
-[08Apr2025 04:29:43.817] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (volcano_dungeon): All chunks are saved
-[08Apr2025 04:29:43.819] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (witch_dungeon): All chunks are saved
+[08Apr2025 22:20:36.009] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[08Apr2025 22:20:36.012] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[08Apr2025 22:20:36.318] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[08Apr2025 22:20:36.406] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/blackclover/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[08Apr2025 22:20:36.919] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Apr2025 22:20:37.010] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Apr2025 22:20:37.017] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08Apr2025 22:20:37.777] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[08Apr2025 22:20:43.316] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[08Apr2025 22:20:43.340] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[08Apr2025 22:20:46.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Apr2025 22:20:47.000] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[08Apr2025 22:20:49.739] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Apr2025 22:20:50.597] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, noabilities, everyworld] and [bcset, noabilities, player] with inputs: [everyworld]
+[08Apr2025 22:20:50.602] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, noabilities, thisworld] and [bcset, noabilities, player] with inputs: [thisworld]
+[08Apr2025 22:20:50.603] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, nophysical, thisworld, false] and [bcset, nophysical, thisworld, true] with inputs: [true, false]
+[08Apr2025 22:20:50.604] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, nophysical, thisworld, true] and [bcset, nophysical, thisworld, false] with inputs: [true, false]
+[08Apr2025 22:20:50.605] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, invite, accept] and [bcsquad, invite, name] with inputs: [accept]
+[08Apr2025 22:20:50.608] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, false] and [bcsquad, reset, name] with inputs: [true, false]
+[08Apr2025 22:20:50.609] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, false] and [bcsquad, reset, true] with inputs: [true, false]
+[08Apr2025 22:20:50.640] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, true] and [bcsquad, reset, false] with inputs: [true, false]
+[08Apr2025 22:20:50.641] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, true] and [bcsquad, reset, name] with inputs: [true, false]
+[08Apr2025 22:20:50.652] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Apr2025 22:20:50.653] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Apr2025 22:20:50.655] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Apr2025 22:20:50.656] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Apr2025 22:20:50.658] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Apr2025 22:20:50.664] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, Bcr-0.3.6.jar, curios-forge-1.16.5-4.1.0.0.jar, geckolib-forge-1.16.5-3.0.106.jar
+[08Apr2025 22:20:51.931] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[08Apr2025 22:20:52.629] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[08Apr2025 22:20:55.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[08Apr2025 22:20:55.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Apr2025 22:20:55.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Apr2025 22:20:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Apr2025 22:20:55.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Apr2025 22:20:55.574] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[08Apr2025 22:20:55.791] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Apr2025 22:20:55.792] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Apr2025 22:20:55.792] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Apr2025 22:20:55.792] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Apr2025 22:20:55.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Apr2025 22:20:56.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Apr2025 22:20:57.888] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Apr2025 22:20:57.889] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Apr2025 22:20:57.890] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Apr2025 22:20:57.890] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Apr2025 22:20:58.165] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[08Apr2025 22:20:58.594] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2473 ms
+[08Apr2025 22:20:58.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.776s)! For help, type "help"
+[08Apr2025 22:21:21.944] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7bd1f49c
+[08Apr2025 22:21:21.966] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:56381] logged in with entity id 7 at (1580.7741598823234, 63.0, 1171.881265943557)
+[08Apr2025 22:21:21.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[08Apr2025 22:22:32.341] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
+[08Apr2025 22:22:32.343] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
+[08Apr2025 22:22:32.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[08Apr2025 22:22:32.395] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[08Apr2025 22:22:49.298] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1bdba680
+[08Apr2025 22:22:49.306] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:59065] logged in with entity id 482 at (1613.8603257582836, 69.23254512836563, 1145.0555862728015)
+[08Apr2025 22:22:49.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[08Apr2025 22:25:49.639] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[08Apr2025 22:25:49.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[08Apr2025 22:26:08.144] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@44dff4a6
+[08Apr2025 22:26:08.150] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:55129] logged in with entity id 1285 at (1701.5478505390195, 73.0, 1223.6483234381815)
+[08Apr2025 22:26:08.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[08Apr2025 22:28:38.539] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[08Apr2025 22:28:38.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[08Apr2025 22:28:56.091] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@599bc23
+[08Apr2025 22:28:56.096] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:46475] logged in with entity id 1959 at (1661.699999988079, 62.086324980521205, 1165.300000011921)
+[08Apr2025 22:28:56.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
