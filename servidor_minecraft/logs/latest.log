@@ -70,3 +70,12 @@
 [08Apr2025 22:34:10.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS has made the advancement [Isn't It Iron Pick]
 [08Apr2025 22:36:00.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1438.0, 63.0, -584.0
 [08Apr2025 22:36:00.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 2259, 75, 20
+[08Apr2025 22:45:09.591] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
+[08Apr2025 22:45:09.641] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
+[08Apr2025 22:45:09.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[08Apr2025 22:45:22.542] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2743226a
+[08Apr2025 22:45:22.548] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:56601] logged in with entity id 4996 at (1674.520255755414, 63.0, 1162.0411831123422)
+[08Apr2025 22:45:22.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[08Apr2025 22:50:14.607] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@43433322
+[08Apr2025 22:50:14.614] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ISMAIL_GLOO[/127.104.81.207:38697] logged in with entity id 5996 at (608.2217682558037, 65.0, -10.305961643536367)
+[08Apr2025 22:50:14.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO joined the game
