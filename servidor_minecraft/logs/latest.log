@@ -202,3 +202,21 @@ java.lang.NullPointerException: null
 [08Apr2025 23:25:56.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO joined the game
 [08Apr2025 23:29:36.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO has made the advancement [Take Aim]
 [08Apr2025 23:30:59.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! -10.318169277612697,0.0,-0.44950394728675747
+[08Apr2025 23:32:07.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[08Apr2025 23:32:16.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was killed by worldtree magic 
+[08Apr2025 23:33:37.945] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[08Apr2025 23:33:37.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[08Apr2025 23:33:41.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[08Apr2025 23:33:44.097] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@46d0c6b
+[08Apr2025 23:33:44.101] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:37431] logged in with entity id 33144 at (927.9339238911588, 62.07326335385383, 573.5015270559834)
+[08Apr2025 23:33:44.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[08Apr2025 23:34:17.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[08Apr2025 23:34:21.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[08Apr2025 23:34:40.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[08Apr2025 23:34:51.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[08Apr2025 23:35:52.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[08Apr2025 23:36:02.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Witches' forest dungeon entrance has spawned at 1606.0, 72.0, -797.0
+[08Apr2025 23:36:02.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -2288, 67, -2000
+[08Apr2025 23:37:19.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[08Apr2025 23:40:00.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[08Apr2025 23:40:45.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
