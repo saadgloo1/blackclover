@@ -160,3 +160,22 @@
 [09Apr2025 15:55:28.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 681, 69, -2367
 [09Apr2025 15:56:01.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to 533.5, 80.0, 1447.5]
 [09Apr2025 15:56:07.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
+[09Apr2025 15:57:30.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Seabed Dungeon!
+[09Apr2025 15:57:30.782] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
+[09Apr2025 15:57:36.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[09Apr2025 15:57:56.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Seabed dungeon will collapse ...
+[09Apr2025 15:59:07.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Zombie Villager
+[09Apr2025 15:59:14.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[09Apr2025 15:59:50.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[09Apr2025 16:00:33.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[09Apr2025 16:04:35.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[09Apr2025 16:05:14.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G0BL1NS> att
+[09Apr2025 16:05:24.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G0BL1NS> kidrbni
+[09Apr2025 16:05:37.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G0BL1NS> mais kndamajih bzf
+[09Apr2025 16:05:51.145] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
+[09Apr2025 16:05:51.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
+[09Apr2025 16:06:17.293] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[09Apr2025 16:06:17.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 16:06:34.994] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@630ae8ad
+[09Apr2025 16:06:34.998] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:45205] logged in with entity id 34784 at (-2269.1493785390194, 65.0, 2133.020735423343)
+[09Apr2025 16:06:34.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
