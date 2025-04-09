@@ -179,3 +179,15 @@
 [09Apr2025 16:06:34.994] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@630ae8ad
 [09Apr2025 16:06:34.998] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:45205] logged in with entity id 34784 at (-2269.1493785390194, 65.0, 2133.020735423343)
 [09Apr2025 16:06:34.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 16:10:29.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at 320.0, 63.0, -1689.0
+[09Apr2025 16:10:29.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -79, 64, 711
+[09Apr2025 16:11:07.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Volcano Dungeon!
+[09Apr2025 16:11:07.880] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
+[09Apr2025 16:11:12.440] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 0.0,-10.806526110008996,0.0
+[09Apr2025 16:11:12.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5897ms or 117 ticks behind
+[09Apr2025 16:12:31.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Volcano dungeon will collapse ...
+[09Apr2025 16:14:40.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS drowned
+[09Apr2025 16:16:42.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c5ecf39
+[09Apr2025 16:16:42.501] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:53791] logged in with entity id 36840 at (-2251.2324635277073, 72.0, 2098.915761778851)
+[09Apr2025 16:16:42.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
+[09Apr2025 16:16:55.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
