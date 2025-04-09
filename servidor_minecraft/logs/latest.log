@@ -200,3 +200,34 @@
 [09Apr2025 16:26:29.805] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
 [09Apr2025 16:26:29.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
 [09Apr2025 16:29:08.496] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/36209, l='ServerLevel[world]', x=-2405.50, y=64.00, z=2020.02] died, message: 'Butcher was slain by Husk'
+[09Apr2025 16:38:37.895] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[09Apr2025 16:38:37.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 16:39:02.344] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4be6523b
+[09Apr2025 16:39:02.348] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:53749] logged in with entity id 44511 at (-2308.9084000950497, 67.0, 1055.8941628384623)
+[09Apr2025 16:39:02.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 16:39:50.200] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[09Apr2025 16:39:50.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 16:40:13.394] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@29f7f980
+[09Apr2025 16:40:13.399] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:59195] logged in with entity id 44978 at (-2311.881113054933, 68.0, 1063.1217153825523)
+[09Apr2025 16:40:13.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 16:40:20.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by Vanica
+[09Apr2025 16:40:32.891] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
+[09Apr2025 16:40:32.940] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
+[09Apr2025 16:40:32.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 16:40:36.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at 444.0, 79.0, -298.0
+[09Apr2025 16:40:36.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -958, 63, -727
+[09Apr2025 16:40:52.943] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5cab74c1
+[09Apr2025 16:40:52.946] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:57421] logged in with entity id 45370 at (-2314.259969568707, 70.3089552499483, 1061.374784397944)
+[09Apr2025 16:40:52.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 16:41:11.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by curse magic 
+[09Apr2025 16:41:35.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Vanica world boss has been killed!
+[09Apr2025 16:43:38.199] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[09Apr2025 16:43:38.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 16:44:13.194] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e6b4145
+[09Apr2025 16:44:13.204] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:60359] logged in with entity id 46581 at (-2295.458347156671, 63.0, 1044.3142683114877)
+[09Apr2025 16:44:13.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 16:44:43.294] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[09Apr2025 16:44:43.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 16:45:19.194] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e576620
+[09Apr2025 16:45:19.197] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:58153] logged in with entity id 47034 at (-2296.57253094103, 63.0, 1040.6619208047184)
+[09Apr2025 16:45:19.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
