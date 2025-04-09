@@ -591,15 +591,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-09 00:04:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-09 00:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-09 00:04:39 +0000"
     },
     "done": true
   },
@@ -1062,6 +1062,7 @@
       "minecraft:snowy_beach": "2025-04-08 02:38:30 +0000",
       "minecraft:warm_ocean": "2025-04-07 23:11:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-07 22:25:32 +0000",
+      "minecraft:savanna_plateau": "2025-04-09 01:23:39 +0000",
       "minecraft:beach": "2025-04-07 22:24:51 +0000",
       "minecraft:dark_forest": "2025-04-08 23:22:24 +0000",
       "minecraft:river": "2025-04-07 22:54:04 +0000",
