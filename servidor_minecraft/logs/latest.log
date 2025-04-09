@@ -35,3 +35,37 @@
 [09Apr2025 00:36:09.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Volcano dungeon entrance has spawned at 1243.0, 71.0, 2182.0
 [09Apr2025 00:36:09.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1021, 63, 2258
 [09Apr2025 00:38:52.291] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/66580, l='ServerLevel[world]', x=605.30, y=66.06, z=-12.30] died, message: 'Villager hit the ground too hard whilst trying to escape saadgloo'
+[09Apr2025 00:44:22.098] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ISMAIL_GLOO lost connection: Timed out
+[09Apr2025 00:44:22.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO left the game
+[09Apr2025 00:47:00.307] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@2d44af88[id=<null>,name=ISMAIL_GLOO,properties={},legacy=false] (/127.104.81.207:47869): Took too long to log in
+[09Apr2025 00:47:00.354] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2d44af88[id=<null>,name=ISMAIL_GLOO,properties={},legacy=false] (/127.104.81.207:47869) lost connection: Took too long to log in
+[09Apr2025 00:50:38.298] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[09Apr2025 00:50:38.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 00:51:10.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Volcano dungeon entrance has spawned at -1866.0, 63.0, 211.0
+[09Apr2025 00:51:10.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 1204, 68, 1089
+[09Apr2025 00:51:11.192] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@152a1cff
+[09Apr2025 00:51:11.196] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:59931] logged in with entity id 74504 at (-1904.300000011921, 67.0, 1097.2092414949384)
+[09Apr2025 00:51:11.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 00:51:11.456] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[09Apr2025 00:51:11.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 00:51:21.592] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4b798cff
+[09Apr2025 00:51:21.596] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:43909] logged in with entity id 74678 at (-1904.300000011921, 67.0, 1097.2092414949384)
+[09Apr2025 00:51:21.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 00:51:21.794] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[09Apr2025 00:51:21.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 00:52:07.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Gave 1 [Spawner] to saadgloo]
+[09Apr2025 00:52:13.993] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@735e4ca8
+[09Apr2025 00:52:13.998] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:38867] logged in with entity id 75449 at (-1904.300000011921, 67.0, 1097.2092414949384)
+[09Apr2025 00:52:13.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 00:52:14.259] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[09Apr2025 00:52:14.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 00:52:19.645] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@29fdb44e
+[09Apr2025 00:52:19.648] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:46873] logged in with entity id 75705 at (-1904.300000011921, 67.0, 1097.2092414949384)
+[09Apr2025 00:52:19.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 00:52:19.845] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[09Apr2025 00:52:19.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 00:52:40.394] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@37996f0c
+[09Apr2025 00:52:40.397] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:32939] logged in with entity id 77152 at (-1904.300000011921, 67.0, 1097.2092414949384)
+[09Apr2025 00:52:40.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 00:52:40.667] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[09Apr2025 00:52:40.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
