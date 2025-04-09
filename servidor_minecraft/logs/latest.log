@@ -116,3 +116,28 @@
 [09Apr2025 15:36:28.849] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48d2a6dd
 [09Apr2025 15:36:28.853] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:53061] logged in with entity id 26192 at (-2522.698952591168, 33.0, 2009.3272248072162)
 [09Apr2025 15:36:28.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 15:38:23.601] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
+[09Apr2025 15:38:23.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
+[09Apr2025 15:38:28.847] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@368b6cb5
+[09Apr2025 15:38:28.851] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:47131] logged in with entity id 26968 at (432.3912456262913, 64.0, 42.82797779337988)
+[09Apr2025 15:38:28.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
+[09Apr2025 15:40:27.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -634.0, 63.0, 2144.0
+[09Apr2025 15:40:28.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 818, 70, -1621
+[09Apr2025 15:40:29.407] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[09Apr2025 15:40:29.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 15:40:41.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Jungle Dungeon!
+[09Apr2025 15:40:41.495] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! -459.5879727013562,36.0,-47.17532281343329
+[09Apr2025 15:40:43.446] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@21efba2
+[09Apr2025 15:40:43.451] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:50409] logged in with entity id 27785 at (-2504.1361934944016, 7.0, 2017.396282441305)
+[09Apr2025 15:40:43.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 15:41:21.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Jungle dungeon will collapse ...
+[09Apr2025 15:43:13.705] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[09Apr2025 15:43:13.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 15:43:36.297] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5dceadff
+[09Apr2025 15:43:36.302] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:49143] logged in with entity id 29003 at (-2456.701232018164, 63.0, 2032.9760773742116)
+[09Apr2025 15:43:36.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 15:45:30.165] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/29110, l='ServerLevel[world]', x=-2405.50, y=63.00, z=2034.50] died, message: 'Butcher was killed by light magic'
+[09Apr2025 15:45:30.229] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/29109, l='ServerLevel[world]', x=-2405.50, y=63.00, z=2044.50] died, message: 'Fisherman was killed by light magic'
+[09Apr2025 15:45:44.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Revchi
+[09Apr2025 15:46:27.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set G0BL1NS's game mode to Spectator Mode]
+[09Apr2025 15:46:37.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set G0BL1NS's game mode to Survival Mode]
