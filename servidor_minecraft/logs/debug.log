@@ -1123,3 +1123,22 @@
 [09Apr2025 23:33:27.784] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [09Apr2025 23:34:24.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
 [09Apr2025 23:36:05.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[09Apr2025 23:38:27.253] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Apr2025 23:38:27.258] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Apr2025 23:38:46.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[09Apr2025 23:39:36.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[09Apr2025 23:39:49.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Witches' Forest dungeon!
+[09Apr2025 23:39:50.346] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
+[09Apr2025 23:39:54.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[09Apr2025 23:41:24.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Witche's Forest dungeon will collapse ...
+[09Apr2025 23:42:10.301] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! 200.17176752015462,3.733632006042477,187.00870785892317
+[09Apr2025 23:42:12.289] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 198.402733421088,6.0,225.87275150033008
+[09Apr2025 23:42:26.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by worldtree magic
+[09Apr2025 23:42:28.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
+[09Apr2025 23:42:32.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[09Apr2025 23:43:23.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[09Apr2025 23:43:27.120] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Apr2025 23:43:27.123] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Apr2025 23:43:28.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1838.0, 63.0, 1570.0
+[09Apr2025 23:43:28.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 686, 63, 2362
+[09Apr2025 23:44:07.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
