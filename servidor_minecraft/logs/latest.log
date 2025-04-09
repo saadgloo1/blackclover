@@ -199,3 +199,4 @@
 [09Apr2025 16:25:35.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -269, 63, 402
 [09Apr2025 16:26:29.805] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
 [09Apr2025 16:26:29.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
+[09Apr2025 16:29:08.496] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/36209, l='ServerLevel[world]', x=-2405.50, y=64.00, z=2020.02] died, message: 'Butcher was slain by Husk'
