@@ -30,3 +30,8 @@
 [09Apr2025 00:28:50.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Valtos
 [09Apr2025 00:28:53.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
 [09Apr2025 00:30:33.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
+[09Apr2025 00:33:59.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Valtos world boss has been killed!
+[09Apr2025 00:35:18.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
+[09Apr2025 00:36:09.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Volcano dungeon entrance has spawned at 1243.0, 71.0, 2182.0
+[09Apr2025 00:36:09.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1021, 63, 2258
+[09Apr2025 00:38:52.291] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/66580, l='ServerLevel[world]', x=605.30, y=66.06, z=-12.30] died, message: 'Villager hit the ground too hard whilst trying to escape saadgloo'
