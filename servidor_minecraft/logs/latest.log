@@ -78,3 +78,21 @@
 [09Apr2025 15:10:07.418] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 0.0,-10.806526110008996,0.0
 [09Apr2025 15:10:26.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1784.0, 63.0, 2176.0
 [09Apr2025 15:10:26.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1563, 63, -332
+[09Apr2025 15:21:46.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Jungle Dungeon!
+[09Apr2025 15:21:46.148] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
+[09Apr2025 15:22:51.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Jungle dungeon will collapse ...
+[09Apr2025 15:24:05.349] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=242, y=65, z=254}
+[09Apr2025 15:24:05.935] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=242, y=65, z=255}
+[09Apr2025 15:24:06.078] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=242, y=65, z=255}
+[09Apr2025 15:24:06.297] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=242, y=65, z=254}
+[09Apr2025 15:24:06.953] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=244, y=66, z=254}
+[09Apr2025 15:24:07.245] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=244, y=66, z=256}
+[09Apr2025 15:24:07.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.fana.player
+[09Apr2025 15:25:13.049] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[09Apr2025 15:25:13.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 15:25:13.092] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[09Apr2025 15:25:27.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -390.0, 89.0, 1860.0
+[09Apr2025 15:25:27.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 1800, 86, 2062
+[09Apr2025 15:25:44.098] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@16e1cd8e
+[09Apr2025 15:25:44.104] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:50221] logged in with entity id 20623 at (-2414.1679746982336, 63.5625, 2073.0674804706478)
+[09Apr2025 15:25:44.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
