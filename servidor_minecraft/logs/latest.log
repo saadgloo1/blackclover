@@ -61,3 +61,20 @@
 [09Apr2025 14:49:17.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Zombie
 [09Apr2025 14:55:25.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -197.0, 63.0, 801.0
 [09Apr2025 14:55:25.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 248, 65, 271
+[09Apr2025 14:59:36.595] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
+[09Apr2025 14:59:36.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
+[09Apr2025 15:04:13.194] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[09Apr2025 15:04:13.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 15:04:19.403] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5118b827
+[09Apr2025 15:04:19.410] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:33849] logged in with entity id 12757 at (-2413.898021143946, 70.0, 1528.5145656496916)
+[09Apr2025 15:04:19.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 15:04:40.643] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/12849, l='ServerLevel[world]', x=-2346.29, y=63.00, z=1596.23] died, message: 'Leatherworker was slain by Zombie'
+[09Apr2025 15:06:17.895] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[09Apr2025 15:06:17.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 15:07:41.100] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@15b79351
+[09Apr2025 15:07:41.106] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:42191] logged in with entity id 13510 at (-2537.378231985686, 64.0, 1680.300000011921)
+[09Apr2025 15:07:41.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 15:09:51.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
+[09Apr2025 15:10:07.418] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 0.0,-10.806526110008996,0.0
+[09Apr2025 15:10:26.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1784.0, 63.0, 2176.0
+[09Apr2025 15:10:26.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1563, 63, -332
