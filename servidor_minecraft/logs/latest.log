@@ -9,3 +9,20 @@
 [09Apr2025 00:11:57.958] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=614, y=52, z=-11} BlockPos{x=614, y=53, z=-11}
 [09Apr2025 00:11:58.006] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=614, y=52, z=-11} BlockPos{x=614, y=53, z=-11}
 [09Apr2025 00:12:02.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Jungle dungeon will collapse ...
+[09Apr2025 00:12:50.697] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 194.62580487189726,6.0,193.95361451358121
+[09Apr2025 00:14:27.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[09Apr2025 00:15:40.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[09Apr2025 00:16:30.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[09Apr2025 00:16:55.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[09Apr2025 00:17:17.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
+[09Apr2025 00:18:44.745] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
+[09Apr2025 00:18:44.791] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
+[09Apr2025 00:18:44.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[09Apr2025 00:18:50.745] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e00d015
+[09Apr2025 00:18:50.750] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:39803] logged in with entity id 57339 at (239.826748357333, 62.073265240580206, 234.39259510583796)
+[09Apr2025 00:18:50.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 00:21:08.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at 1005.0, 68.0, -12.0
+[09Apr2025 00:21:08.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 1666, 88, 1965
+[09Apr2025 00:21:30.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
+[09Apr2025 00:22:06.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Gave 1 [Spawner] to saadgloo]
+[09Apr2025 00:22:57.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS discovered the floor was lava
