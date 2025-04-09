@@ -2749,3 +2749,11 @@ java.lang.NullPointerException: null
 [09Apr2025 00:21:30.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
 [09Apr2025 00:22:06.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Gave 1 [Spawner] to saadgloo]
 [09Apr2025 00:22:57.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS discovered the floor was lava
+[09Apr2025 00:26:02.947] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Apr2025 00:26:02.950] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Apr2025 00:27:45.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ISMAIL_GLOO was slain by Zombie
+[09Apr2025 00:28:50.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Valtos
+[09Apr2025 00:28:53.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to ISMAIL_GLOO]
+[09Apr2025 00:30:33.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported ISMAIL_GLOO to saadgloo]
+[09Apr2025 00:31:03.079] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Apr2025 00:31:03.082] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
