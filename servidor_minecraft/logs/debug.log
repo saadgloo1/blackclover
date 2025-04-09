@@ -1122,3 +1122,11 @@
 [09Apr2025 14:40:25.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1493, 84, 485
 [09Apr2025 14:45:23.985] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [09Apr2025 14:45:23.989] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Apr2025 14:48:42.894] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/6876, l='ServerLevel[world]', x=-2348.31, y=70.00, z=1514.51] died, message: 'Farmer was slain by Zombie'
+[09Apr2025 14:49:17.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Zombie
+[09Apr2025 14:50:24.208] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Apr2025 14:50:24.211] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Apr2025 14:55:23.870] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09Apr2025 14:55:23.873] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09Apr2025 14:55:25.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -197.0, 63.0, 801.0
+[09Apr2025 14:55:25.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 248, 65, 271
