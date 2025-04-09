@@ -1,1 +1,11 @@
 [09Apr2025 00:00:13.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo has made the advancement [Diamonds!]
+[09Apr2025 00:06:03.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Volcano dungeon entrance has spawned at 1835.0, 63.0, -147.0
+[09Apr2025 00:06:04.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -117, 63, -1509
+[09Apr2025 00:09:33.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Gave 200 [Torch] to ISMAIL_GLOO]
+[09Apr2025 00:10:28.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Jungle Dungeon!
+[09Apr2025 00:10:28.718] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
+[09Apr2025 00:10:31.501] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 0.0,-10.806526110008988,0.0
+[09Apr2025 00:10:31.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3744ms or 74 ticks behind
+[09Apr2025 00:11:57.958] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=614, y=52, z=-11} BlockPos{x=614, y=53, z=-11}
+[09Apr2025 00:11:58.006] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=614, y=52, z=-11} BlockPos{x=614, y=53, z=-11}
+[09Apr2025 00:12:02.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Jungle dungeon will collapse ...
