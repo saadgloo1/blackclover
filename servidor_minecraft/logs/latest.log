@@ -1,277 +1,60 @@
-[09Apr2025 14:25:02.596] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[09Apr2025 14:25:02.598] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
-[09Apr2025 14:25:02.872] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[09Apr2025 14:25:02.952] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/blackclover/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[09Apr2025 14:25:03.442] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[09Apr2025 14:25:03.535] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[09Apr2025 14:25:03.543] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[09Apr2025 14:25:04.336] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[09Apr2025 14:25:10.019] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[09Apr2025 14:25:10.049] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[09Apr2025 14:25:12.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Apr2025 14:25:13.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[09Apr2025 14:25:15.500] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Apr2025 14:25:16.017] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, noabilities, everyworld] and [bcset, noabilities, player] with inputs: [everyworld]
-[09Apr2025 14:25:16.026] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, noabilities, thisworld] and [bcset, noabilities, player] with inputs: [thisworld]
-[09Apr2025 14:25:16.027] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, nophysical, thisworld, false] and [bcset, nophysical, thisworld, true] with inputs: [true, false]
-[09Apr2025 14:25:16.029] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, nophysical, thisworld, true] and [bcset, nophysical, thisworld, false] with inputs: [true, false]
-[09Apr2025 14:25:16.030] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, invite, accept] and [bcsquad, invite, name] with inputs: [accept]
-[09Apr2025 14:25:16.031] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, false] and [bcsquad, reset, name] with inputs: [true, false]
-[09Apr2025 14:25:16.033] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, false] and [bcsquad, reset, true] with inputs: [true, false]
-[09Apr2025 14:25:16.069] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, true] and [bcsquad, reset, false] with inputs: [true, false]
-[09Apr2025 14:25:16.073] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, true] and [bcsquad, reset, name] with inputs: [true, false]
-[09Apr2025 14:25:16.092] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09Apr2025 14:25:16.093] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09Apr2025 14:25:16.097] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09Apr2025 14:25:16.101] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09Apr2025 14:25:16.103] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09Apr2025 14:25:16.114] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, Bcr-0.3.6.jar, curios-forge-1.16.5-4.1.0.0.jar, geckolib-forge-1.16.5-3.0.106.jar
-[09Apr2025 14:25:17.360] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[09Apr2025 14:25:18.085] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
-[09Apr2025 14:25:20.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[09Apr2025 14:25:20.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Apr2025 14:25:20.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Apr2025 14:25:20.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Apr2025 14:25:20.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Apr2025 14:25:21.017] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[09Apr2025 14:25:21.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Apr2025 14:25:21.264] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Apr2025 14:25:21.265] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Apr2025 14:25:21.266] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Apr2025 14:25:21.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Apr2025 14:25:21.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Apr2025 14:25:23.135] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Apr2025 14:25:23.136] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Apr2025 14:25:23.136] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Apr2025 14:25:23.183] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Apr2025 14:25:23.754] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 63%
-[09Apr2025 14:25:23.805] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2123 ms
-[09Apr2025 14:25:23.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.518s)! For help, type "help"
-[09Apr2025 14:27:07.845] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3db649c8
-[09Apr2025 14:27:07.864] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:40103] logged in with entity id 13 at (-1831.913901207583, 88.0, 879.3740262526112)
-[09Apr2025 14:27:07.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
-[09Apr2025 14:27:19.667] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3601241a
-[09Apr2025 14:27:19.680] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:59437] logged in with entity id 285 at (-3223.6055161165928, 64.0, 1603.7427206702594)
-[09Apr2025 14:27:19.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 14:30:25.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to 609.5, 65.0, -16.5]
-[09Apr2025 14:31:01.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 1000]
-[09Apr2025 14:40:25.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1080.0, 63.0, -2226.0
-[09Apr2025 14:40:25.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1493, 84, 485
-[09Apr2025 14:48:42.894] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/6876, l='ServerLevel[world]', x=-2348.31, y=70.00, z=1514.51] died, message: 'Farmer was slain by Zombie'
-[09Apr2025 14:49:17.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Zombie
-[09Apr2025 14:55:25.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -197.0, 63.0, 801.0
-[09Apr2025 14:55:25.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 248, 65, 271
-[09Apr2025 14:59:36.595] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
-[09Apr2025 14:59:36.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
-[09Apr2025 15:04:13.194] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
-[09Apr2025 15:04:13.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 15:04:19.403] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5118b827
-[09Apr2025 15:04:19.410] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:33849] logged in with entity id 12757 at (-2413.898021143946, 70.0, 1528.5145656496916)
-[09Apr2025 15:04:19.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 15:04:40.643] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/12849, l='ServerLevel[world]', x=-2346.29, y=63.00, z=1596.23] died, message: 'Leatherworker was slain by Zombie'
-[09Apr2025 15:06:17.895] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
-[09Apr2025 15:06:17.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 15:07:41.100] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@15b79351
-[09Apr2025 15:07:41.106] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:42191] logged in with entity id 13510 at (-2537.378231985686, 64.0, 1680.300000011921)
-[09Apr2025 15:07:41.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 15:09:51.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
-[09Apr2025 15:10:07.418] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 0.0,-10.806526110008996,0.0
-[09Apr2025 15:10:26.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at -1784.0, 63.0, 2176.0
-[09Apr2025 15:10:26.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1563, 63, -332
-[09Apr2025 15:21:46.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Jungle Dungeon!
-[09Apr2025 15:21:46.148] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
-[09Apr2025 15:22:51.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Jungle dungeon will collapse ...
-[09Apr2025 15:24:05.349] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=242, y=65, z=254}
-[09Apr2025 15:24:05.935] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=242, y=65, z=255}
-[09Apr2025 15:24:06.078] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=242, y=65, z=255}
-[09Apr2025 15:24:06.297] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=242, y=65, z=254}
-[09Apr2025 15:24:06.953] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=244, y=66, z=254}
-[09Apr2025 15:24:07.245] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=40, y=59, z=55} BlockPos{x=244, y=66, z=256}
-[09Apr2025 15:24:07.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.fana.player
-[09Apr2025 15:25:13.049] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 15:25:13.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 15:25:13.092] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[09Apr2025 15:25:27.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -390.0, 89.0, 1860.0
-[09Apr2025 15:25:27.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 1800, 86, 2062
-[09Apr2025 15:25:44.098] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@16e1cd8e
-[09Apr2025 15:25:44.104] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:50221] logged in with entity id 20623 at (-2414.1679746982336, 63.5625, 2073.0674804706478)
-[09Apr2025 15:25:44.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 15:27:23.349] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5e3a4072
-[09Apr2025 15:27:23.353] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:60767] logged in with entity id 21098 at (453.4325423398066, 64.0, 47.52190786637692)
-[09Apr2025 15:27:23.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
-[09Apr2025 15:30:11.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Jungle Dungeon!
-[09Apr2025 15:30:11.908] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! -653.5408276103636,33.0,188.78701080808568
-[09Apr2025 15:30:52.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Jungle dungeon will collapse ...
-[09Apr2025 15:31:57.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[09Apr2025 15:33:13.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[09Apr2025 15:34:59.397] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
-[09Apr2025 15:34:59.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 15:35:04.300] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1e1669d7
-[09Apr2025 15:35:04.304] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:60159] logged in with entity id 25198 at (-2511.820162377617, 43.0, 2013.3725142376795)
-[09Apr2025 15:35:04.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 15:35:27.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[09Apr2025 15:36:02.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[09Apr2025 15:36:04.499] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 15:36:04.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 15:36:28.849] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48d2a6dd
-[09Apr2025 15:36:28.853] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:53061] logged in with entity id 26192 at (-2522.698952591168, 33.0, 2009.3272248072162)
-[09Apr2025 15:36:28.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 15:38:23.601] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
-[09Apr2025 15:38:23.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
-[09Apr2025 15:38:28.847] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@368b6cb5
-[09Apr2025 15:38:28.851] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:47131] logged in with entity id 26968 at (432.3912456262913, 64.0, 42.82797779337988)
-[09Apr2025 15:38:28.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
-[09Apr2025 15:40:27.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -634.0, 63.0, 2144.0
-[09Apr2025 15:40:28.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 818, 70, -1621
-[09Apr2025 15:40:29.407] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 15:40:29.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 15:40:41.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Jungle Dungeon!
-[09Apr2025 15:40:41.495] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! -459.5879727013562,36.0,-47.17532281343329
-[09Apr2025 15:40:43.446] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@21efba2
-[09Apr2025 15:40:43.451] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:50409] logged in with entity id 27785 at (-2504.1361934944016, 7.0, 2017.396282441305)
-[09Apr2025 15:40:43.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 15:41:21.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Jungle dungeon will collapse ...
-[09Apr2025 15:43:13.705] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 15:43:13.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 15:43:36.297] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5dceadff
-[09Apr2025 15:43:36.302] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:49143] logged in with entity id 29003 at (-2456.701232018164, 63.0, 2032.9760773742116)
-[09Apr2025 15:43:36.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 15:45:30.165] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/29110, l='ServerLevel[world]', x=-2405.50, y=63.00, z=2034.50] died, message: 'Butcher was killed by light magic'
-[09Apr2025 15:45:30.229] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/29109, l='ServerLevel[world]', x=-2405.50, y=63.00, z=2044.50] died, message: 'Fisherman was killed by light magic'
-[09Apr2025 15:45:44.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Revchi
-[09Apr2025 15:46:27.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set G0BL1NS's game mode to Spectator Mode]
-[09Apr2025 15:46:37.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set G0BL1NS's game mode to Survival Mode]
-[09Apr2025 15:46:59.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Spectator Mode]
-[09Apr2025 15:47:24.500] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
-[09Apr2025 15:47:24.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 15:47:30.603] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ca9af67
-[09Apr2025 15:47:30.608] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:55569] logged in with entity id 30924 at (-2368.287276158133, 66.0, 2047.476454209837)
-[09Apr2025 15:47:30.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 15:48:33.394] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/29107, l='ServerLevel[world]', x=-2404.77, y=51.07, z=2038.37] died, message: 'Farmer was slain by Zombie'
-[09Apr2025 15:50:00.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[09Apr2025 15:50:08.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[09Apr2025 15:50:14.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[09Apr2025 15:50:18.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[09Apr2025 15:50:53.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set G0BL1NS's game mode to Spectator Mode]
-[09Apr2025 15:51:03.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set G0BL1NS's game mode to Survival Mode]
-[09Apr2025 15:51:11.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[09Apr2025 15:52:01.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[09Apr2025 15:55:28.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at 533.0, 76.0, 1441.0
-[09Apr2025 15:55:28.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 681, 69, -2367
-[09Apr2025 15:56:01.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to 533.5, 80.0, 1447.5]
-[09Apr2025 15:56:07.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[09Apr2025 15:57:30.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Seabed Dungeon!
-[09Apr2025 15:57:30.782] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
-[09Apr2025 15:57:36.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
-[09Apr2025 15:57:56.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Seabed dungeon will collapse ...
-[09Apr2025 15:59:07.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was slain by Zombie Villager
-[09Apr2025 15:59:14.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
-[09Apr2025 15:59:50.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[09Apr2025 16:00:33.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
-[09Apr2025 16:04:35.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
-[09Apr2025 16:05:14.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G0BL1NS> att
-[09Apr2025 16:05:24.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G0BL1NS> kidrbni
-[09Apr2025 16:05:37.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <G0BL1NS> mais kndamajih bzf
-[09Apr2025 16:05:51.145] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
-[09Apr2025 16:05:51.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
-[09Apr2025 16:06:17.293] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 16:06:17.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 16:06:34.994] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@630ae8ad
-[09Apr2025 16:06:34.998] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:45205] logged in with entity id 34784 at (-2269.1493785390194, 65.0, 2133.020735423343)
-[09Apr2025 16:06:34.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 16:10:29.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at 320.0, 63.0, -1689.0
-[09Apr2025 16:10:29.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -79, 64, 711
-[09Apr2025 16:11:07.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Volcano Dungeon!
-[09Apr2025 16:11:07.880] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
-[09Apr2025 16:11:12.440] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 0.0,-10.806526110008996,0.0
-[09Apr2025 16:11:12.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5897ms or 117 ticks behind
-[09Apr2025 16:12:31.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Volcano dungeon will collapse ...
-[09Apr2025 16:14:40.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS drowned
-[09Apr2025 16:16:42.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c5ecf39
-[09Apr2025 16:16:42.501] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:53791] logged in with entity id 36840 at (-2251.2324635277073, 72.0, 2098.915761778851)
-[09Apr2025 16:16:42.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
-[09Apr2025 16:16:55.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
-[09Apr2025 16:17:59.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 1000]
-[09Apr2025 16:19:22.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
-[09Apr2025 16:22:11.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by worldtree magic
-[09Apr2025 16:22:25.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
-[09Apr2025 16:25:35.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -1188.0, 63.0, 1946.0
-[09Apr2025 16:25:35.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -269, 63, 402
-[09Apr2025 16:26:29.805] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Disconnected
-[09Apr2025 16:26:29.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
-[09Apr2025 16:29:08.496] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/36209, l='ServerLevel[world]', x=-2405.50, y=64.00, z=2020.02] died, message: 'Butcher was slain by Husk'
-[09Apr2025 16:38:37.895] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 16:38:37.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 16:39:02.344] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4be6523b
-[09Apr2025 16:39:02.348] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:53749] logged in with entity id 44511 at (-2308.9084000950497, 67.0, 1055.8941628384623)
-[09Apr2025 16:39:02.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 16:39:50.200] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 16:39:50.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 16:40:13.394] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@29f7f980
-[09Apr2025 16:40:13.399] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:59195] logged in with entity id 44978 at (-2311.881113054933, 68.0, 1063.1217153825523)
-[09Apr2025 16:40:13.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 16:40:20.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by Vanica
-[09Apr2025 16:40:32.891] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
-[09Apr2025 16:40:32.940] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
-[09Apr2025 16:40:32.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 16:40:36.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at 444.0, 79.0, -298.0
-[09Apr2025 16:40:36.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -958, 63, -727
-[09Apr2025 16:40:52.943] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5cab74c1
-[09Apr2025 16:40:52.946] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:57421] logged in with entity id 45370 at (-2314.259969568707, 70.3089552499483, 1061.374784397944)
-[09Apr2025 16:40:52.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 16:41:11.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by curse magic 
-[09Apr2025 16:41:35.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Vanica world boss has been killed!
-[09Apr2025 16:43:38.199] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 16:43:38.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 16:44:13.194] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e6b4145
-[09Apr2025 16:44:13.204] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:60359] logged in with entity id 46581 at (-2295.458347156671, 63.0, 1044.3142683114877)
-[09Apr2025 16:44:13.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 16:44:43.294] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 16:44:43.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 16:45:19.194] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e576620
-[09Apr2025 16:45:19.197] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:58153] logged in with entity id 47034 at (-2296.57253094103, 63.0, 1040.6619208047184)
-[09Apr2025 16:45:19.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 16:50:07.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Earth Meteor
-[09Apr2025 16:50:40.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by bone magic
-[09Apr2025 16:52:04.845] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 16:52:04.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 16:52:37.694] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@65c0d474
-[09Apr2025 16:52:37.698] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:47897] logged in with entity id 50101 at (-2346.0012966961394, 62.84742360277128, 919.1160268967831)
-[09Apr2025 16:52:37.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 16:52:41.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by bone magic 
-[09Apr2025 16:52:47.748] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[09Apr2025 16:52:51.640] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
-[09Apr2025 16:52:51.690] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
-[09Apr2025 16:52:51.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 16:52:59.593] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e8b739b
-[09Apr2025 16:52:59.596] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:55449] logged in with entity id 50787 at (-2345.675232501675, 67.27989604576179, 922.1851471294618)
-[09Apr2025 16:52:59.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 16:53:04.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Zenon world boss has been killed!
-[09Apr2025 16:54:29.696] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
-[09Apr2025 16:54:29.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
-[09Apr2025 16:55:31.944] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@425d54d0
-[09Apr2025 16:55:31.948] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.228.46.22:42735] logged in with entity id 51569 at (-2363.416144290462, 69.0, 931.7243186633409)
-[09Apr2025 16:55:31.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
-[09Apr2025 16:55:37.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Witches' forest dungeon entrance has spawned at 781.0, 72.0, 142.0
-[09Apr2025 16:55:37.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 1099, 69, 1151
+[09Apr2025 23:27:55.545] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[09Apr2025 23:27:55.548] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[09Apr2025 23:27:56.344] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[09Apr2025 23:27:56.479] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/blackclover/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[09Apr2025 23:27:57.625] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Apr2025 23:27:57.727] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Apr2025 23:27:57.736] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Apr2025 23:27:58.741] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[09Apr2025 23:28:06.680] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[09Apr2025 23:28:06.759] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[09Apr2025 23:28:10.908] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Apr2025 23:28:11.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[09Apr2025 23:28:14.720] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Apr2025 23:28:15.940] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, noabilities, everyworld] and [bcset, noabilities, player] with inputs: [everyworld]
+[09Apr2025 23:28:15.941] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, noabilities, thisworld] and [bcset, noabilities, player] with inputs: [thisworld]
+[09Apr2025 23:28:15.942] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, nophysical, thisworld, false] and [bcset, nophysical, thisworld, true] with inputs: [true, false]
+[09Apr2025 23:28:16.012] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcset, nophysical, thisworld, true] and [bcset, nophysical, thisworld, false] with inputs: [true, false]
+[09Apr2025 23:28:16.013] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, invite, accept] and [bcsquad, invite, name] with inputs: [accept]
+[09Apr2025 23:28:16.020] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, false] and [bcsquad, reset, name] with inputs: [true, false]
+[09Apr2025 23:28:16.022] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, false] and [bcsquad, reset, true] with inputs: [true, false]
+[09Apr2025 23:28:16.085] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, true] and [bcsquad, reset, false] with inputs: [true, false]
+[09Apr2025 23:28:16.087] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [bcsquad, reset, true] and [bcsquad, reset, name] with inputs: [true, false]
+[09Apr2025 23:28:16.099] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Apr2025 23:28:16.100] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Apr2025 23:28:16.102] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Apr2025 23:28:16.105] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Apr2025 23:28:16.110] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Apr2025 23:28:16.115] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, Bcr-0.3.6.jar, curios-forge-1.16.5-4.1.0.0.jar, geckolib-forge-1.16.5-3.0.106.jar
+[09Apr2025 23:28:17.759] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[09Apr2025 23:28:18.821] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[09Apr2025 23:28:22.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[09Apr2025 23:28:22.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Apr2025 23:28:22.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Apr2025 23:28:22.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Apr2025 23:28:23.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Apr2025 23:28:23.109] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[09Apr2025 23:28:23.501] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Apr2025 23:28:23.502] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Apr2025 23:28:23.504] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Apr2025 23:28:23.504] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Apr2025 23:28:23.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Apr2025 23:28:24.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Apr2025 23:28:25.847] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Apr2025 23:28:25.848] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Apr2025 23:28:25.848] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Apr2025 23:28:25.848] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Apr2025 23:28:26.252] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Apr2025 23:28:26.686] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 67%
+[09Apr2025 23:28:26.856] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2777 ms
+[09Apr2025 23:28:26.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.323s)! For help, type "help"
+[09Apr2025 23:29:46.553] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49f302b8
+[09Apr2025 23:29:46.574] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:37505] logged in with entity id 23 at (-757.5316582004467, 67.0, 549.1670325140619)
+[09Apr2025 23:29:46.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[09Apr2025 23:29:59.418] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@430a0ed2
+[09Apr2025 23:29:59.425] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:39003] logged in with entity id 281 at (-2373.183035235657, 70.0, 2095.659765333187)
+[09Apr2025 23:29:59.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
+[09Apr2025 23:30:45.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[09Apr2025 23:31:27.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[09Apr2025 23:34:24.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[09Apr2025 23:36:05.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
