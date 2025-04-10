@@ -789,3 +789,43 @@
 [10Apr2025 03:20:43.339] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/51613, l='ServerLevel[world]', x=-1421.06, y=59.50, z=630.94] died, message: 'Villager was killed by key magic'
 [10Apr2025 03:21:10.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by key magic
 [10Apr2025 03:21:50.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[10Apr2025 03:23:30.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[10Apr2025 03:23:39.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by key magic
+[10Apr2025 03:23:39.959] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/51602, l='ServerLevel[world]', x=-1403.44, y=68.00, z=668.52] died, message: 'Villager was killed by key magic'
+[10Apr2025 03:23:39.964] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/51543, l='ServerLevel[world]', x=-1401.51, y=66.00, z=661.70] died, message: 'Villager was killed by key magic'
+[10Apr2025 03:23:39.973] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/51542, l='ServerLevel[world]', x=-1397.28, y=66.00, z=657.09] died, message: 'Farmer was killed by key magic'
+[10Apr2025 03:23:39.975] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/51593, l='ServerLevel[world]', x=-1396.31, y=66.00, z=657.56] died, message: 'Librarian was killed by key magic'
+[10Apr2025 03:23:39.977] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/51601, l='ServerLevel[world]', x=-1391.10, y=66.00, z=663.70] died, message: 'Villager was killed by key magic'
+[10Apr2025 03:23:58.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[10Apr2025 03:24:10.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[10Apr2025 03:24:14.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Gravito Rock Zone dungeon!
+[10Apr2025 03:24:14.769] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved wrongly!
+[10Apr2025 03:24:29.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
+[10Apr2025 03:24:48.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set G0BL1NS's game mode to Spectator Mode]
+[10Apr2025 03:25:16.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Gravito Rock Zone dungeon will collapse ...
+[10Apr2025 03:25:52.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set G0BL1NS's game mode to Survival Mode]
+[10Apr2025 03:26:06.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by key magic
+[10Apr2025 03:26:24.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[10Apr2025 03:26:54.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 1000]
+[10Apr2025 03:28:42.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at 249.0, 63.0, -694.0
+[10Apr2025 03:28:42.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 1962, 63, -1539
+[10Apr2025 03:28:48.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by key magic
+[10Apr2025 03:30:29.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[10Apr2025 03:31:37.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[10Apr2025 03:32:26.901] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 03:32:26.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 03:32:31.753] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@73d9eeb8
+[10Apr2025 03:32:31.757] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:57679] logged in with entity id 56487 at (-1429.6723813684623, 70.0, 677.493115733129)
+[10Apr2025 03:32:31.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 03:32:31.953] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 03:32:31.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 03:32:39.651] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6d16569a
+[10Apr2025 03:32:39.654] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:36225] logged in with entity id 56511 at (-1429.6723813684623, 70.0, 677.493115733129)
+[10Apr2025 03:32:39.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 03:32:39.855] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 03:32:39.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 03:32:51.053] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@31fe3fe3
+[10Apr2025 03:32:51.056] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:46677] logged in with entity id 56557 at (-1429.6723813684623, 70.0, 677.493115733129)
+[10Apr2025 03:32:51.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 03:32:51.254] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 03:32:51.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
