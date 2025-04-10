@@ -777,3 +777,15 @@
 [10Apr2025 03:12:07.055] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:56637] logged in with entity id 50684 at (37.93981691452914, 81.51200971824677, 95.40666684596779)
 [10Apr2025 03:12:07.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
 [10Apr2025 03:12:26.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
+[10Apr2025 03:13:41.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at 1174.0, 63.0, 530.0
+[10Apr2025 03:13:41.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1735, 64, 447
+[10Apr2025 03:13:43.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Gravito Rock Zone dungeon will collapse ...
+[10Apr2025 03:15:11.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by sealing magic 
+[10Apr2025 03:15:18.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[10Apr2025 03:15:30.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 1000]
+[10Apr2025 03:20:43.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by key magic
+[10Apr2025 03:20:43.324] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/51600, l='ServerLevel[world]', x=-1391.60, y=68.00, z=689.50] died, message: 'Villager was killed by key magic'
+[10Apr2025 03:20:43.326] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/51604, l='ServerLevel[world]', x=-1400.18, y=65.00, z=648.94] died, message: 'Farmer was killed by key magic'
+[10Apr2025 03:20:43.339] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/51613, l='ServerLevel[world]', x=-1421.06, y=59.50, z=630.94] died, message: 'Villager was killed by key magic'
+[10Apr2025 03:21:10.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by key magic
+[10Apr2025 03:21:50.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
