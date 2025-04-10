@@ -100,3 +100,24 @@
 [10Apr2025 01:59:29.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
 [10Apr2025 02:00:07.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Zenon world boss has been killed!
 [10Apr2025 02:00:45.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set G0BL1NS's game mode to Survival Mode]
+[10Apr2025 02:01:29.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[10Apr2025 02:02:57.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[10Apr2025 02:03:31.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo was slain by G0BL1NS
+[10Apr2025 02:03:50.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
+[10Apr2025 02:04:00.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by worldtree magic
+[10Apr2025 02:04:07.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[10Apr2025 02:04:24.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to -1566.5, 79.0, 439.5]
+[10Apr2025 02:04:30.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
+[10Apr2025 02:05:16.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[10Apr2025 02:07:05.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dev mode false!
+[10Apr2025 02:07:14.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dev mode false!
+[10Apr2025 02:07:44.147] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[10Apr2025 02:07:44.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 02:08:11.301] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7562ba65
+[10Apr2025 02:08:11.304] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:47151] logged in with entity id 40028 at (-1581.8272141650384, 81.0, 455.18199219347827)
+[10Apr2025 02:08:11.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 02:09:41.648] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Timed out
+[10Apr2025 02:09:41.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 02:10:02.502] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@221dd877
+[10Apr2025 02:10:02.507] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:34115] logged in with entity id 40215 at (-1572.2867505518902, 80.0, 453.2569678122265)
+[10Apr2025 02:10:02.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game

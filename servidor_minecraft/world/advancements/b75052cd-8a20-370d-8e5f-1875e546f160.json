@@ -260,7 +260,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-07 22:52:00 +0000",
-      "golden_apple": "2025-04-08 23:45:35 +0000"
+      "golden_apple": "2025-04-08 23:45:35 +0000",
+      "enchanted_golden_apple": "2025-04-10 02:02:01 +0000"
     },
     "done": false
   },
@@ -1301,6 +1302,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-04-08 00:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-10 02:01:58 +0000"
     },
     "done": true
   },
