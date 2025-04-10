@@ -22,3 +22,13 @@
 [10Apr2025 00:36:58.251] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a819a60
 [10Apr2025 00:36:58.257] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:40199] logged in with entity id 20816 at (436.0, 76.0, 41.0)
 [10Apr2025 00:36:58.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 00:41:00.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS tried to swim in lava
+[10Apr2025 00:42:30.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
+[10Apr2025 00:43:03.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dungeon portal despawning ...
+[10Apr2025 00:43:30.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -2294.0, 63.0, 1291.0
+[10Apr2025 00:43:30.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -1554, 66, 1577
+[10Apr2025 00:48:56.049] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 00:48:56.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 00:49:01.148] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@37f1ef57
+[10Apr2025 00:49:01.152] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:58507] logged in with entity id 23568 at (-1389.809020719711, 71.0, 739.5340737192098)
+[10Apr2025 00:49:01.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
