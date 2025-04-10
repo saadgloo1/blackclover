@@ -2008,3 +2008,8 @@
 [10Apr2025 01:28:55.906] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:50443] logged in with entity id 33121 at (-1544.0876354363654, 79.0, 456.2423940579025)
 [10Apr2025 01:28:55.907] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@46ca03c3 into net.minecraft.network.NetworkManager@71eef030
 [10Apr2025 01:28:55.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 01:33:30.451] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Apr2025 01:33:30.453] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Apr2025 01:38:30.467] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Apr2025 01:38:30.470] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Apr2025 01:39:59.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 1000]
