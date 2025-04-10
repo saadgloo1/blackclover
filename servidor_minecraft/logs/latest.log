@@ -34,3 +34,20 @@
 [10Apr2025 00:49:01.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
 [10Apr2025 00:58:31.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -2392.0, 63.0, -602.0
 [10Apr2025 00:58:31.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 619, 68, -2031
+[10Apr2025 01:00:03.753] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 01:00:03.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 01:00:09.850] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6d962fae
+[10Apr2025 01:00:09.856] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:47235] logged in with entity id 25826 at (-1373.1840859387016, 63.0, 658.7464618489109)
+[10Apr2025 01:00:09.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 01:01:06.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Gravito Rock Zone dungeon!
+[10Apr2025 01:01:07.247] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
+[10Apr2025 01:01:10.079] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 0.0,-10.80652611000901,0.0
+[10Apr2025 01:01:10.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
+[10Apr2025 01:01:14.097] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
+[10Apr2025 01:01:14.145] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
+[10Apr2025 01:01:14.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 01:01:19.898] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4ac13a3d
+[10Apr2025 01:01:19.902] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:57725] logged in with entity id 26394 at (39.0, 83.88058717578663, 104.0)
+[10Apr2025 01:01:19.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 01:02:39.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Gravito Rock Zone dungeon will collapse ...
+[10Apr2025 01:05:20.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS drowned whilst trying to escape Drowned
