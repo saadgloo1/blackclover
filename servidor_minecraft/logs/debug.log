@@ -1361,3 +1361,13 @@
 [10Apr2025 00:13:29.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -2366, 71, -2178
 [10Apr2025 00:18:27.219] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Apr2025 00:18:27.222] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Apr2025 00:21:06.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: The Zenon world boss has been killed!
+[10Apr2025 00:23:27.217] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:23:27.220] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Apr2025 00:24:11.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Witches' Forest dungeon!
+[10Apr2025 00:24:11.953] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved wrongly!
+[10Apr2025 00:25:21.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Witche's Forest dungeon will collapse ...
+[10Apr2025 00:28:27.108] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:28:27.111] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Apr2025 00:28:30.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at 2173.0, 65.0, -1527.0
+[10Apr2025 00:28:30.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -803, 63, -2406
