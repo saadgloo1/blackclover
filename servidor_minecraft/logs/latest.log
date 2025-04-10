@@ -747,3 +747,33 @@
 [10Apr2025 02:58:53.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo has made the advancement [Hot Stuff]
 [10Apr2025 02:59:53.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
 [10Apr2025 03:01:24.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 1000]
+[10Apr2025 03:10:27.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[10Apr2025 03:10:50.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[10Apr2025 03:11:23.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player has entered the Gravito Rock Zone dungeon!
+[10Apr2025 03:11:23.809] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved wrongly!
+[10Apr2025 03:11:28.052] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo was kicked for floating too long!
+[10Apr2025 03:11:28.104] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Flying is not enabled on this server
+[10Apr2025 03:11:28.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
+[10Apr2025 03:11:34.454] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@164892da
+[10Apr2025 03:11:34.458] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:40601] logged in with entity id 50584 at (39.01097178029228, 152.24349098943335, 103.16795205260435)
+[10Apr2025 03:11:34.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
+[10Apr2025 03:11:39.203] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo was kicked for floating too long!
+[10Apr2025 03:11:39.251] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Flying is not enabled on this server
+[10Apr2025 03:11:39.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
+[10Apr2025 03:11:45.307] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@44d110af
+[10Apr2025 03:11:45.311] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:37825] logged in with entity id 50616 at (39.01097178029228, 129.0757165724227, 103.16795205260435)
+[10Apr2025 03:11:45.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
+[10Apr2025 03:11:49.902] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo was kicked for floating too long!
+[10Apr2025 03:11:49.954] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Flying is not enabled on this server
+[10Apr2025 03:11:49.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
+[10Apr2025 03:11:54.703] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76941f78
+[10Apr2025 03:11:54.706] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:41173] logged in with entity id 50637 at (37.93981691452914, 105.49909718488664, 95.40666684596779)
+[10Apr2025 03:11:54.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
+[10Apr2025 03:11:59.352] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo was kicked for floating too long!
+[10Apr2025 03:11:59.403] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo lost connection: Flying is not enabled on this server
+[10Apr2025 03:11:59.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo left the game
+[10Apr2025 03:12:02.908] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4d9ef16d[id=<null>,name=saadgloo,properties={},legacy=false] (/127.159.53.7:37535) lost connection: Disconnected
+[10Apr2025 03:12:07.052] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@398337c1
+[10Apr2025 03:12:07.055] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: saadgloo[/127.159.53.7:56637] logged in with entity id 50684 at (37.93981691452914, 81.51200971824677, 95.40666684596779)
+[10Apr2025 03:12:07.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saadgloo joined the game
+[10Apr2025 03:12:26.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
