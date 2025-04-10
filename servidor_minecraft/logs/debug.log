@@ -5121,3 +5121,17 @@
 [10Apr2025 04:12:03.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set the time to 1000]
 [10Apr2025 04:13:30.556] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Apr2025 04:13:30.558] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Apr2025 04:13:44.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -2276.0, 87.0, 592.0
+[10Apr2025 04:13:44.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 30, 74, 1659
+[10Apr2025 04:15:27.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[10Apr2025 04:16:00.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[10Apr2025 04:17:11.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[10Apr2025 04:17:58.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[10Apr2025 04:18:08.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[10Apr2025 04:18:30.559] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Apr2025 04:18:30.562] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Apr2025 04:20:20.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported saadgloo to G0BL1NS]
+[10Apr2025 04:23:26.059] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS moved too quickly! 10.000012218952179,-4.0,1.0
+[10Apr2025 04:23:30.374] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Apr2025 04:23:30.377] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Apr2025 04:23:42.982] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: saadgloo moved too quickly! -9.999987781047821,4.0,-1.0
