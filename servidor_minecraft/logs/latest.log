@@ -137,3 +137,36 @@
 [10Apr2025 02:21:36.101] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
 [10Apr2025 02:21:36.149] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
 [10Apr2025 02:21:36.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 02:21:41.904] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@36bfb6c6
+[10Apr2025 02:21:41.909] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:49619] logged in with entity id 41851 at (-1575.3270657680503, 132.35345536485312, 445.57194340523114)
+[10Apr2025 02:21:41.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 02:21:52.399] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS was kicked for floating too long!
+[10Apr2025 02:21:52.450] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Flying is not enabled on this server
+[10Apr2025 02:21:52.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 02:21:59.310] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42a4e880
+[10Apr2025 02:21:59.313] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:40541] logged in with entity id 41915 at (-1575.3270657680503, 81.37848138490713, 445.57194340523114)
+[10Apr2025 02:21:59.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 02:22:02.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[10Apr2025 02:23:57.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[10Apr2025 02:24:07.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
+[10Apr2025 02:24:27.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Survival Mode]
+[10Apr2025 02:24:40.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS was killed by worldtree magic
+[10Apr2025 02:24:51.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Teleported G0BL1NS to saadgloo]
+[10Apr2025 02:26:26.950] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 02:26:26.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 02:26:32.355] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5929d596
+[10Apr2025 02:26:32.358] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:33813] logged in with entity id 42785 at (-1556.5621711212837, 79.0, 458.7489012999186)
+[10Apr2025 02:26:32.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 02:28:39.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at 2133.0, 63.0, -2245.0
+[10Apr2025 02:28:39.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 985, 63, 605
+[10Apr2025 02:29:33.155] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 02:29:33.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 02:29:38.804] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8fa2f
+[10Apr2025 02:29:38.807] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:37173] logged in with entity id 43234 at (-1562.8934344729, 79.0, 460.1151842310844)
+[10Apr2025 02:29:38.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 02:30:53.954] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 02:30:53.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 02:31:27.302] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5941c34d
+[10Apr2025 02:31:27.306] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:33925] logged in with entity id 43679 at (-1561.3692221714182, 79.0, 446.55950512235296)
+[10Apr2025 02:31:27.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 02:31:44.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [saadgloo: Set own game mode to Creative Mode]
