@@ -17,3 +17,8 @@
 [10Apr2025 00:25:21.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: In 1 minute the Witche's Forest dungeon will collapse ...
 [10Apr2025 00:28:30.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A jungle dungeon entrance has spawned at 2173.0, 65.0, -1527.0
 [10Apr2025 00:28:30.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at -803, 63, -2406
+[10Apr2025 00:33:51.798] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: G0BL1NS lost connection: Disconnected
+[10Apr2025 00:33:51.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS left the game
+[10Apr2025 00:36:58.251] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a819a60
+[10Apr2025 00:36:58.257] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:40199] logged in with entity id 20816 at (436.0, 76.0, 41.0)
+[10Apr2025 00:36:58.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
