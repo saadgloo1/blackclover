@@ -32,3 +32,5 @@
 [10Apr2025 00:49:01.148] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@37f1ef57
 [10Apr2025 00:49:01.152] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: G0BL1NS[/127.66.71.183:58507] logged in with entity id 23568 at (-1389.809020719711, 71.0, 739.5340737192098)
 [10Apr2025 00:49:01.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: G0BL1NS joined the game
+[10Apr2025 00:58:31.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A Seabed Temple dungeon entrance has spawned at -2392.0, 63.0, -602.0
+[10Apr2025 00:58:31.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A World boss has spawned at 619, 68, -2031
